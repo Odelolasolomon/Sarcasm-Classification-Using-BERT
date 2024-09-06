@@ -1,5 +1,4 @@
 # Sarcasm-Classification-Using-BERT
-# Sarcasm Detection Using BERT
 
 ## Project Description
 
